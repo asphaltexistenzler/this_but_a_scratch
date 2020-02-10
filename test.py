@@ -18,3 +18,4 @@ erg = bruch1+2*bruch2
 divmod (erg.numerator, erg.denominator)
 (2,1)
 print (erg)
+print ("me")
